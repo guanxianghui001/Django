@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'frist_book.apps.FristBookConfig',
+    'polls.apps.PollsConfig',
 ]
 
 MIDDLEWARE = [
